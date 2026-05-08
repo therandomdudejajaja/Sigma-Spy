@@ -22,7 +22,7 @@ A complete Remote Spy with an incredible parser that captures incoming and outgo
 ## Loadstring
 ```lua
 --// Sigma Spy - Reupload by Dexz00
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dexz00/Sigma-Spy/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/therandomdudejajaja/Sigma-Spy/main/Main.lua"))()
 ```
 
 ## What was changed in this reupload 🔧
@@ -35,7 +35,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dexz00/Sigma-Spy/main
 - ✅ Updated repository URLs
 
 ## Notices 🔔
-- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/therandomdudejajaja/Sigma-Spy/issues) on Github
+- Sigma Spy will have bugs, please don't report any bugs by opening an [issue](https://github.com/therandomdudejajaja/Sigma-Spy/issues) on Github
 - If you have a suggestion, please don't post it in the [discussions](https://github.com/therandomdudejajaja/Sigma-Spy/discussions)
 - If you have issues with the executor's comm library (get_comm_channel, create_comm_channel), enable `ForceUseCustomComm` in Sigma Spy/Config.lua which is found in your Executor's workspace folder after running
 - Wave and Zenith are recommended to use as of 11/06/25
