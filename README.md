@@ -4,6 +4,8 @@
 
 This is a **REUPLOAD** of the original Sigma Spy created by **depso (depthso)**. The original repository was deleted, so this version was created to preserve the project and include necessary bug fixes to keep it working.
 
+ok bro lemme fix it
+
 **Original Author:** depso (depthso)  
 **Original Repository:** https://github.com/depthso (deleted)  
 **Reupload & Bug Fixes:** Dexz00  
@@ -33,8 +35,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dexz00/Sigma-Spy/main
 - ✅ Updated repository URLs
 
 ## Notices 🔔
-- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/Dexz00/Sigma-Spy/issues) on Github
-- If you have a suggestion, please post it in the [discussions](https://github.com/Dexz00/Sigma-Spy/discussions)
+- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/therandomdudejajaja/Sigma-Spy/issues) on Github
+- If you have a suggestion, please don't post it in the [discussions](https://github.com/therandomdudejajaja/Sigma-Spy/discussions)
 - If you have issues with the executor's comm library (get_comm_channel, create_comm_channel), enable `ForceUseCustomComm` in Sigma Spy/Config.lua which is found in your Executor's workspace folder after running
 - Wave and Zenith are recommended to use as of 11/06/25
 
