@@ -3,8 +3,8 @@ local Configuration = {
 	UseWorkspace = false,
 	NoActors = false,
 	FolderName = "Sigma Spy",
-	RepoUrl = "https://raw.githubusercontent.com/Dexz00/Sigma-Spy/main",
-	ParserUrl = "https://raw.githubusercontent.com/depthso/Roblox-parser/refs/heads/main/dist/Main.luau"
+	RepoUrl = "https://raw.githubusercontent.com/therandomdudejajaja/Sigma-Spy/main",
+	ParserUrl = "https://raw.githubusercontent.com/therandomdudejajaja/Roblox-parser/refs/heads/main/dist/Main.luau"
 }
 
 print("[Sigma Spy] v12.0.1 - Config Fix Build - Loaded")
